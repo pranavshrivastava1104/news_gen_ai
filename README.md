@@ -6,6 +6,18 @@ This project combines **live web search**, **LLM-based reasoning**, and **prompt
 
 ---
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-LLM-purple)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-blueviolet)
+![News Summarization](https://img.shields.io/badge/News-Summarization-brightgreen)
+![DuckDuckGo Search](https://img.shields.io/badge/DuckDuckGo-Search-black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blue)
+![CLI Application](https://img.shields.io/badge/CLI-Application-lightgrey)
+![AI Agents](https://img.shields.io/badge/AI-Agents-red)
+
+
 ## 📌 Table of Contents
 
 * [Overview](#overview)
@@ -44,11 +56,6 @@ The system ensures **low hallucination risk** by explicitly constraining the mod
 
 ---
 
-## 🏷 Project Topics
-
-`Python` · `Generative-AI` · `LangChain` · `Google-Gemini` · `LLM` · `News-Summarization` · `DuckDuckGo-Search` · `Prompt-Engineering` · `CLI-Application` · `AI-Agents`
-
----
 
 ## ✨ Features
 
