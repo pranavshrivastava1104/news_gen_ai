@@ -1,0 +1,8 @@
+requests
+feedparser
+openai
+python-dotenv
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
