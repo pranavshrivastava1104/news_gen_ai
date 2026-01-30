@@ -38,6 +38,18 @@ The system ensures **low hallucination risk** by explicitly constraining the mod
 
 ---
 
+## 🏷 Project Topics
+
+`Python` · `Generative-AI` · `LangChain` · `Google-Gemini` · `LLM` · `News-Summarization` · `DuckDuckGo-Search` · `Prompt-Engineering` · `CLI-Application` · `AI-Agents`
+
+---
+
+## 🏷 Project Topics
+
+`Python` · `Generative-AI` · `LangChain` · `Google-Gemini` · `LLM` · `News-Summarization` · `DuckDuckGo-Search` · `Prompt-Engineering` · `CLI-Application` · `AI-Agents`
+
+---
+
 ## ✨ Features
 
 * 🔎 Real-time news retrieval (DuckDuckGo)
